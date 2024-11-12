@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Travel UI UX](https://sanskarguptadev.vercel.app/) &middot; [![Author Sanskar Gupta](https://img.shields.io/badge/Author-Sanskar-%3C%3E)](https://www.linkedin.com/in/sanskar-gupta-12476423b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%3C%3E)](https://github.com/adrianhajdin/travel_ui_ux)
+[![Next.js](https://img.shields.io/badge/Next.js-%3C%3E)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%3C%3E)](https://tailwindcss.com/)
+## ⚙️ Tech Stack
 
-## Getting Started
+- Next.js
+- Tailwind CSS
 
-First, run the development server:
+## 🔋 Features
+
+👉 **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
+
+👉 **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+
+👉 **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
+
+👉 **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
+
+👉 **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
+
+👉 **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
+
+and many more, including code architecture and reusability 
+
+## Demo
+
+Check out the live demo of the project [here](https://travel-sanskargupta0s-projects.vercel.app/).
+
+## Screenshots
+
+#### Landing
+
+![Landing](/public//screenshot.png)
+
+##🤸 Quick Start
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Sanskargupta0/Travel.git
+cd Travel
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+we need to use `npm install --legacy-peer-deps` to install the dependencies correctly.
+
+```bash
+npm install --legacy-peer-deps
+```
+
+**Running the Project**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
